@@ -1,2 +1,2 @@
-# missao-IA-github-
-projeto criado para desenvolvimento de linguagem de programação java scripit
+# missao-IA
+Projeto criado para desenvolvimento de linguagem de programação Javascript.
